@@ -5,7 +5,7 @@
 
 - 🎓 Final year **B.Tech CSE** student at **Uka Tarsadia University**
 - 🌱 Currently learning **, Full Stack Development, Cybersecurity, and Data Science Tools**
-- 💻 Actively building projects using **PHP, React.js, Laravel, Next.js, TailwindCss **
+- 💻 Actively building projects using **PHP, React.js, Laravel, Next.js, TailwindCss**
 - 🔐 Exploring **Kali Linux**, ethical hacking, and penetration testing
 - 📊 Gaining hands-on experience with **NumPy, Pandas, OpenCV, scikit-learn**, and more
 - 🗂️ Explore my work here: [GitHub Repositories](https://github.com/SujalPatel17?tab=repositories)
