@@ -54,12 +54,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalPatel17&show_icons=true&theme=default" alt="Sujal's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalPatel17&theme=default" alt="GitHub Streak" width="49%"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalPatel17&show_icons=true&theme=radical" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=SujalPatel17&theme=radical" width="49%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalPatel17&layout=compact&theme=default" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalPatel17&layout=compact&theme=radical" width="35% />
+
 </p>
 
 ---
