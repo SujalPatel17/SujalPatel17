@@ -58,7 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=SujalPatel17&theme=radical" width="49%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalPatel17&layout=compact&theme=radical" width="35% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalPatel17&layout=compact&theme=radical" width="35%" />
 
 </p>
 
